@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "5.0",
+      "releasedAt": 1722590400000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://minecraft-inside.ru/modpacks/169644-create-vanilla.html"
+        }
+      }
+    }
+  ]
+}
